@@ -51,7 +51,7 @@
 #   include <GL/glx.h>
 #   include <X11/Xatom.h>
 #   include <unistd.h>
-#   include <malloc.h>
+#   include <stdlib.h>
 #   undef _WIN32
 #   undef WIN32
 #   undef _WIN64
